@@ -1,4 +1,4 @@
---- 
+---
 id: FRAD.P1
 version: 1.0
 type: frad_principle
